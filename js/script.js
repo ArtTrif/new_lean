@@ -8,16 +8,16 @@
 // const result = confirm("ты тут?");
 // console.log (result);
 
-// const answers = []; //создали пустой массив
+const answers = []; //создали пустой массив
 
-// // // далее заполняем массив
-// answers [0] = prompt('Как ваше Имя?', '');
-// answers [1] = prompt('Как ваше Фамилия?', '');
-// answers [2] = prompt('Как ваше Отчество?', '');
+// далее заполняем массив
+answers [0] = prompt('Как ваше Имя?', '');
+answers [1] = prompt('Как ваше Фамилия?', '');
+answers [2] = prompt('Как ваше Отчество?', '');
 
 
-// // //выводим в консоль
-// console.log (answers);
+//выводим в консоль
+console.log (answers);
 
-const answer = prompt ("сколько вам лет?", "18");
-console.log(answer);
+// const answer = prompt ("сколько вам лет?", "18");
+// console.log(answer);
