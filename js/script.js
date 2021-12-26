@@ -57,23 +57,40 @@ console.log(personalMovieDB);*/
 
 // (num === 50) ? console.log('Ok!') : console.log('Error');
 
-const num = 2000;
 
-switch (num) {
-    case 1500:
-        console.log('угадал!');
-        break;
-    case 1300:
-        console.log('угадал!');
-        break;
-    case 1200:
-        console.log('угадал!');
-        break;
-    case 2000:
-        console.log('угадал!');
-        break;
-    default:
-        console.log(' не в этот раз ');
-        break;
+
+// switch (num) {
+//     case 1500:
+//         console.log('угадал!');
+//         break;
+//     case 1300:
+//         console.log('угадал!');
+//         break;
+//     case 1200:
+//         console.log('угадал!');
+//         break;
+//     case 2000:
+//         console.log('угадал!');
+//         break;
+//     default:
+//         console.log(' не в этот раз ');
+//         break;
+// }
+
+// let num = 50;
+
+// // while (num <= 55) {
+// //     console.log(num);
+// //     num++;
+// // }
+
+// do {
+//     console.log(num);
+//     num++
+// }
+// while (num <= 55);
+
+for (let num = 50; num <= 56; num + 2) {
+    console.log(num);
+    
 }
-
