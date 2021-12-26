@@ -19,7 +19,7 @@
 
 'use strict';
 
-const numberOfFilms = +prompt('Сколько фильмов вы уже посмотрели?', '');
+/*const numberOfFilms = +prompt('Сколько фильмов вы уже посмотрели?', '');
 
 const personalMovieDB = {
     count: numberOfFilms,
@@ -37,4 +37,43 @@ const a = prompt('Один из последних просмотренных ф
 personalMovieDB.movies[a] = b;
 personalMovieDB.movies[c] = d;
 
-console.log(personalMovieDB);
+console.log(personalMovieDB);*/
+
+// if (4 == 9) {
+//     console.log('OK!');
+// } else {
+//     console.log('NO');
+// }
+
+
+// if  (num < 49) {
+//     console.log('мало');
+// } else if (num > 100) {
+//     console.log('много');
+// } else {
+//     console.log('Ok!');
+// }
+
+
+// (num === 50) ? console.log('Ok!') : console.log('Error');
+
+const num = 2000;
+
+// switch (num) {
+//     case 1500:
+//         console.log('угадал!');
+//         break;
+//     case 1300:
+//         console.log('угадал!');
+//         break;
+//     case 1200:
+//         console.log('угадал!');
+//         break;
+//     case 2000:
+//         console.log('угадал!');
+//         break;
+//     default:
+//         console.log(' не в этот раз ');
+//         break;
+// }
+
