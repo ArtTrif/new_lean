@@ -59,21 +59,21 @@ console.log(personalMovieDB);*/
 
 const num = 2000;
 
-// switch (num) {
-//     case 1500:
-//         console.log('угадал!');
-//         break;
-//     case 1300:
-//         console.log('угадал!');
-//         break;
-//     case 1200:
-//         console.log('угадал!');
-//         break;
-//     case 2000:
-//         console.log('угадал!');
-//         break;
-//     default:
-//         console.log(' не в этот раз ');
-//         break;
-// }
+switch (num) {
+    case 1500:
+        console.log('угадал!');
+        break;
+    case 1300:
+        console.log('угадал!');
+        break;
+    case 1200:
+        console.log('угадал!');
+        break;
+    case 2000:
+        console.log('угадал!');
+        break;
+    default:
+        console.log(' не в этот раз ');
+        break;
+}
 
